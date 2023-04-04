@@ -4,11 +4,11 @@ b
 c
 d
 e
-<<<<<<< Updated upstream
+
 Esta a versão do bran
 Novo modal
-=======
+
 f
 g
 h
->>>>>>> Stashed changes
+

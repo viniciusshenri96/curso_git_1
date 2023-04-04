@@ -1,4 +1,10 @@
 Testando atualização do
 b
+<<<<<<< Updated upstream
 Novo recurso
 Novo recurso 2
+=======
+c
+e
+f
+>>>>>>> Stashed changes

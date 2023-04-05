@@ -6,3 +6,4 @@ do meu repositório 2
 2
 Enviando a funcionalidade X
 Enviando a funcionalidade Y
+Enviando a funcionalidade b

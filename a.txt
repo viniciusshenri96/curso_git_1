@@ -4,3 +4,5 @@ Atualização
 de Arquivo
 do meu repositório 2
 2
+Enviando a funcionalidade X
+Enviando a funcionalidade Y

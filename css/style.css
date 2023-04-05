@@ -5,3 +5,7 @@ h1 {
 p-nome {
   font-size: 20px;
 }
+
+table {
+  background-color: red;
+}
